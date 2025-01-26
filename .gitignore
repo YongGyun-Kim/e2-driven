@@ -1,7 +1,7 @@
+*.js
+
 !.eslintrc.js
 !.prettierrc.js
-
-*.js
 !jest.config.js
 *.d.ts
 node_modules
